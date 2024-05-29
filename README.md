@@ -1,6 +1,16 @@
 # End-to-end-object-detection-Project
 
 
+## Wprklflows
+
+
+- constants
+- config_entity
+- artifact_entity
+- components
+- pipeline
+- app.py
+
 ## How to run :
 
 '''bash
